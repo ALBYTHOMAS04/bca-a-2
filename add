@@ -5,8 +5,8 @@ ls
 cd vp03
 git add a.html
 git commit -m"new item"
-git push
-git pull
+git push(system to github)
+git pull(github to system)
 
 git add a.html
 git commit -m "new"
