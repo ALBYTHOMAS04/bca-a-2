@@ -1,3 +1,21 @@
 a=3
 b=1
+git colne
+ls
+cd vp03
+git add a.html
+git commit -m"new item"
+git push
+git pull
+
+git add a.html
+git commit -m "new"
+git pull
+git add a.html
+git commit -m "new"
+ git push
+
+ git checkout -b "new"
+git branch
+git push Origin "new"
 c=a+b
